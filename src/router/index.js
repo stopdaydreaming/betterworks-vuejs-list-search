@@ -3,7 +3,7 @@ import Welcome from "../views/Welcome.vue";
 
 const routes = [
   {
-    path: "/welcome",
+    path: "/",
     name: "Welcome",
     component: Welcome,
   },
